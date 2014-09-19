@@ -1,4 +1,4 @@
 hello-again
 ===========
 
-Revisiting the git tutorial
+Revisiting the git tutorial again.
