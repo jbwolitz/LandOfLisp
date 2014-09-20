@@ -1,4 +1,4 @@
-hello-again
-===========
+'Land Of Lisp!!!!!'
+======================
 
-Revisiting the git tutorial again.
+A repository to document new lisp programs created while reading Conrad Barksi's 'Land Of Lisp'!
