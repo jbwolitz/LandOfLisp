@@ -16,7 +16,7 @@
 
 ;; Define the game world's visible (and interactive) objects
 
-(defparameter *objects* '(whiskey bucket frong chain))
+(defparameter *objects* '(whiskey bucket frog chain))
 
 ;; Define the locations of the game world's visible objects
 
